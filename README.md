@@ -1,3 +1,7 @@
+# 把 Cloudflare WARP+ 的节点转换成订阅地址，让你可以在各种客户端上通过订阅使用 Cloudflare WARP+ 节点。
+https://tofree.zeabur.app/
+
+
 # Cloudflare Worker 2 Trojan & Sub
 这是一个基于 Cloudflare Worker 平台的脚本，在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
